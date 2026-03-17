@@ -15,6 +15,7 @@ Data Science: Benefits and uses – facets of data - Data Science Process: Overv
 goals – Retrieving data – data preparation - Exploratory Data analysis – build the model – presenting
 findings and building applications - Data Mining - Data Warehousing – Basic statistical descriptions of
 Data.
+
 UNIT II
  DATA MANIPULATION
  
@@ -23,6 +24,7 @@ Aggregations – Computation on Arrays – Fancy Indexing – Sorting arrays –
 manipulation with Pandas – Data Indexing and Selection – Handling missing data – Hierarchical indexing
 – Combining datasets – Aggregation and Grouping – String operations – Working with time series – High
 performance
+
 UNIT III
  MACHINE LEARNING
 The modeling process - Types of machine learning - Supervised learning - Unsupervised learning -
@@ -34,6 +36,7 @@ UNIT IV
 Importing Matplotlib – Simple line plots – Simple scatter plots – visualizing errors – density and contour
 plots – Histograms – legends – colors – subplots – text and annotation – customization – three
 dimensional plotting - Geographic Data with Basemap - Visualization with Seaborn
+
 UNIT V
  HANDLING LARGE DATA
  
